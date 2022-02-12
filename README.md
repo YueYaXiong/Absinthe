@@ -293,19 +293,3 @@ ql repo https://github.com/panghu999/panghu.git "jd_"
 
  
  
- 
-
-### 致谢
-* [@kangwenhang](https://github.com/kangwenhang)
-* [@smiek2221](https://github.com/smiek2221/scripts.git)
-* [@yuannian1112](https://github.com/yuannian1112/jd_scripts.git)
-*  [@shufflewzc](https://github.com/okyyds/yyds/tree/master)
-*  [@passerby-b](https://github.com/passerby-b/JDDJ.git)
-*  [@he1pu](https://github.com/he1pu/JDHelp.git)
-*  [@ccwav](https://github.com/ccwav/QLScript2.git)
-*  [@Zy143L](https://github.com/Zy143L/wskey.git)
-*  [@X1a0He](https://github.com/X1a0He/jd_scripts_fixed)
-*  [@KingRan](https://github.com/KingRan/JDJB)
-*  [@Aaron-lv](https://github.com/Aaron-lv/sync)
-*  [@zero205](https://github.com/zero205/JD_tencent_scf)
-*  [@mmnvnmm](https://github.com/mmnvnmm/omo.git)
